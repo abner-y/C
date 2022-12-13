@@ -1,4 +1,4 @@
-# JosephusProblem
+# Josephus Problem
 
 Problema de Josephus resolvido em C utilizando de Filas
 
